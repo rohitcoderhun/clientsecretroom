@@ -1,0 +1,33 @@
+#firstdiv{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#firstchilddiv{
+    width: auto;
+    height: auto;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+input{
+    border:1px solid white;
+    background-color: black;
+    color:rgb(58, 7, 241)
+    
+}
+#childdiv1{
+    display: flex;
+    flex-direction: column;
+    
+}
+span{
+    color: white;
+}
